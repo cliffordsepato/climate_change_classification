@@ -24,7 +24,7 @@ The aim of this project is to gauge the public perception of climate change usin
 # Objective
 * Build a Machine Learning model that is able to classify whether or not aperson believes in climate change, based on their novel tweet data
 * Provide a accurate robust solution that gives companies access to a broad base of customer sentiments,thus increasing their insights and informing future marketing strategies. 
-* Achieve a Macro F1-score higher than 0.70.
+* Achieve a Mean F1-score higher than 0.70.
 *  Build an App using Streamlit's open-source app framework.
 *  Host app within an AWS EC2 instance.
 *  Use Comet alternate version control methods for experiments. 
