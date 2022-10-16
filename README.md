@@ -31,7 +31,7 @@ The aim of this project is to gauge the public perception of climate change usin
 
 ![streamlit_apllication](/images/streamlit_apllication_deployment.PNG)
 
-# Data Source
+# About the Data
 * The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. 
 * The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018 
 * In total, <b>43,943</b> tweets were collected. 
