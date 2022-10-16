@@ -16,7 +16,14 @@ Social media is a powerful source of information on a wide range of topic. Data 
 
 # Problem Statement
 The aim of this project is to gauge the public perception of climate change using twitter data. This will help companies to: 
-* Access a broad base of consumer sentiment, and insights in order to inform future marketing strategies.
+* Access a broad base of consumer sentiments, and insights in order to inform future marketing strategies.
 * Gain insights on people's views and perceptions about climate change. 
 * Improve market research efforts for companies that provide environmentally-friendly products and services.
 * Strengthen efforts to reduce carbon footprint.   
+
+# Objective
+* To create a Machine Learning model that is able to classify whether or not aperson believes in climate change, based on their novel tweet data
+* Provide an accurate robust solution that gives companies access to a broad base of customer sentiments,thus increasing their insights and informing future marketing strategies. 
+* Achieve a Macro F1-score higher than 0.70.
+*  Build an App using Streamlit's open-source app framework.
+*  Host app within an AWS EC2 instance
