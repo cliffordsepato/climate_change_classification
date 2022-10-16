@@ -3,18 +3,13 @@
 ![climate_change_activists](images/youth-climate-activists.jpg)
 <p align="center">Ollie Millington / Getty Images</p>
 
-# About this Project 
+# Introduction
 
-Many companies are built around lessening one’s environmental impact or carbon
-footprint. They offer products and services that are environmentally friendly and
-sustainable, in line with their values and ideals. They would like to determine how
-people perceive climate change and whether or not they believe it is a real threat.
-This would add to their market research efforts in gauging how their
-product/service may be received.
-With this context, EDSA is challenging you during the Classification Sprint with the
-task of creating a Machine Learning model that is able to classify whether or not a
-person believes in climate change, based on their novel tweet data.
-Providing an accurate and robust solution to this task gives companies access to a
-broad base of consumer sentiment, spanning multiple demographic and
-geographic categories - thus increasing their insights and informing future
-marketing strategies.
+Climate change is a global phenomenon that involves ongoing changes in average temperatures and weather patterns.
+Extreme weather events and catastrophes emanating from global warming such as hurricanes, floods and fires, have a direct impact on 70% of all economic sectors worldwide.
+
+Many business leaders are now acknowledging the business imperative of climate change and increasingly understand it to be an existential threat that has far reaching consequences for their people and business operations.  A warming planet creates a wide range of risks for businesses, from disrupted supply chains to rising insurance costs to labor challenges.
+
+This new reality has forced many companies to explore ways to lessening their environmental impact and carbon footprint through offering products and services that are environmentally friendly, sustainable, and in line with their values and ideals. 
+
+The aim of this project is to gauge the public perception of climate change using twitter data. This will allow companies access to a broad base of consumer sentiment, and insights in order to inform future marketing strategies.
