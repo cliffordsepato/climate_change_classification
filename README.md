@@ -1,4 +1,4 @@
-# EDSA : Climate Change Tweet Classification
+# EDSA : Climate Change Belief Analysis using Twitter
 
 ![climate_change_activists](images/youth-climate-activists.jpg)
 <p align="center">Ollie Millington / Getty Images</p>
