@@ -31,7 +31,18 @@ The aim of this project is to gauge the public perception of climate change usin
 
 ![streamlit_apllication](/images/streamlit_apllication_deployment.PNG)
 
+# About the Data
+* The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. 
+* The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018 
+* In total, <b>43,943</b> tweets were collected. 
+* Each tweet is labelled as one of 4 classes.
+* 2 News: the tweet links to factual news about climate change
+* 1 Pro: the tweet supports the belief of man-made climate change
+* 0 Neutral: the tweet neither supports nor refutes the belief of man-made climate change.
+* -1 Anti: the tweet does not believe in man-made climate change Variable definitions
+
 # Tools
 * Kaggle
 * Comet
 * Streamlit
+
