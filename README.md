@@ -12,4 +12,7 @@ Many business leaders are now acknowledging the business imperative of climate c
 
 This new reality has forced many companies to explore ways to lessening their environmental impact and carbon footprint through offering products and services that are environmentally friendly, sustainable, and in line with their values and ideals. 
 
+Social media is a powerful source of information on a wide range of topic. Data from popular social media platforms such as twitter can be harvested and analyzed to find trends related to specific topics,measure poplular sentiment,obtain feedback on past decison and also help shape future decision.  
+
+# Problem Statement
 The aim of this project is to gauge the public perception of climate change using twitter data. This will allow companies access to a broad base of consumer sentiment, and insights in order to inform future marketing strategies.
