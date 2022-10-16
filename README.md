@@ -16,7 +16,7 @@ Social media is a powerful source of information on a wide range of topic. Data 
 
 # Problem Statement
 The aim of this project is to gauge the public perception of climate change using twitter data. This will help companies to: 
-* Access a broad base of consumer sentiments, and insights in order to inform future marketing strategies.
+* Access broad base consumer sentiments, and insights in order to inform future marketing strategies.
 * Gain insights on people's views and perceptions about climate change. 
 * Improve market research efforts for companies that provide environmentally-friendly products and services.
 * Strengthen efforts to reduce carbon footprint.   
