@@ -1,4 +1,4 @@
-# EDSA : Climate Change Belief Analysis using Twitter
+# EDSA : Climate Change Belief Analysis Using Twitter Data
 
 ![climate_change_activists](images/youth-climate-activists.jpg)
 <p align="center">Ollie Millington / Getty Images</p>
