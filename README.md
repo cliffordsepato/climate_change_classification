@@ -29,7 +29,7 @@ The aim of this project is to gauge the public perception of climate change usin
 *  Host app within an AWS EC2 instance.
 *  Use Comet alternate version control methods for experiments. 
 
-
+![streamlit_apllication](/images/streamlit_apllication_deployment.png)
 
 # Tools
 * Kaggle
