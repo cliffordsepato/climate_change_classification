@@ -15,4 +15,8 @@ This new reality has forced many companies to explore ways to lessening their en
 Social media is a powerful source of information on a wide range of topic. Data from popular social media platforms such as twitter can be harvested and analyzed to find trends related to specific topics,measure poplular sentiment,obtain feedback on past decison and also help shape future decision.  
 
 # Problem Statement
-The aim of this project is to gauge the public perception of climate change using twitter data. This will allow companies access to a broad base of consumer sentiment, and insights in order to inform future marketing strategies.
+The aim of this project is to gauge the public perception of climate change using twitter data. This will help companies to: 
+* Access a broad base of consumer sentiment, and insights in order to inform future marketing strategies.
+* Gain insights on people's views and perceptions about climate change. 
+* Improve market research efforts for companies that provide environmentally-friendly products and services.
+* Strengthen efforts to reduce carbon footprint.   
