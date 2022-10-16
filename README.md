@@ -43,6 +43,8 @@ The aim of this project is to gauge the public perception of climate change usin
 * <b>Class 0 Neutral:</b> the tweet neither supports nor refutes the belief of man-made climate change.
 * <b>Class-1  Anti: </b> the tweet does not believe in man-made climate change Variable definitions
 
+![sample_data](images/sample_data.PNG)
+
 # Tools
 * Kaggle
 * Comet
